@@ -12,3 +12,4 @@ deleted the directory
 how to list multiple directories files in long format
 detwerminig file type
 created a symbolic link
+copied files from the wroking directory to parent directory
