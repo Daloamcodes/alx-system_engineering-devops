@@ -9,3 +9,4 @@ create a directory in another directory
 moved a file to the diretor
 i deleted the betty file in the repository
 deleted the directory
+how to list multiple directories files in long format
