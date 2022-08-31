@@ -11,3 +11,4 @@ i deleted the betty file in the repository
 deleted the directory
 how to list multiple directories files in long format
 detwerminig file type
+created a symbolic link
