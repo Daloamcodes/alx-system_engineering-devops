@@ -6,4 +6,5 @@ fourth task was to create a script that list files in long format
 a script that list files plus all hidden ones
 Script to list files number details
 create a directory in another directory
-moved a file to the diretory
+moved a file to the diretor
+i deketed the betty file in the repository
