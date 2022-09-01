@@ -8,3 +8,4 @@ This is a shell permission script project
 7. A script that adds execution permission to all
 8. A script that removes permissions for owner,group and gives all to others
 9. A script that gives owner full permissions, group read and execute, others write and execute
+10. A Sript that set the mode of a file to another file
