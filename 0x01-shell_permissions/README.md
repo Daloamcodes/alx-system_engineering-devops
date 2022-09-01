@@ -6,3 +6,4 @@ This is a shell permission script project
 5. A cript that adds execution permission to file owner
 6. A script that adds execute permission to the owner and group ownwer and read to others
 7. A script that adds execution permission to all
+8. A script that removes permissions for owner,group and gives all to others
